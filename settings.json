@@ -1,0 +1,36 @@
+{
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "editor.fontSize": 17,
+  "editor.tabSize": 2,
+  "terminal.integrated.fontFamily": "MesloLGM Nerd Font Mono",
+  "terminal.integrated.fontSize": 15,
+  //  "editor.fontFamily": "'Fira Code Retina'",
+  "editor.fontFamily": "'Dank Mono'",
+  "editor.fontLigatures": true,
+  "prettier.trailingComma": "all",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "tailwindCSS.emmetCompletions": true,
+  "editor.minimap.enabled": false,
+  "prettier.proseWrap": "always",
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 100,
+  "workbench.colorTheme": "Night Owl",
+  //"workbench.editor.showTabs": false,
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#011627",
+    "tab.activeBorder": "#011627",
+    "tab.border": "#011627",
+    "tab.unfocusedActiveBorder": "#011627",
+    "editorGroupHeader.noTabsBackground": "#011627",
+    "editorLineNumber.foreground": "#081b2c",
+    "editorLineNumber.activeForeground": "#0b2136"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.matchBrackets": "never",
+  "editor.renderIndentGuides": false
+}
+
